@@ -22,6 +22,5 @@ iamastupidhead
 2. Superman
 3. Wonder Woman
 
-* [Week 1] (/week_1)
-  * [Day 1] (/week_1/day_1)
-  
+* [Week 1](/week_1)
+  * [Day 1](/week_1/day_1)
