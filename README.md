@@ -13,3 +13,15 @@ iamastupidhead
 ...taken by [Carlos] https://web.compass.lighthouselabs.ca/
 
 
+### Table of Contents
+
+* Week 1
+  * Day 1
+
+1. Batman
+2. Superman
+3. Wonder Woman
+
+* [Week 1] (/week_1)
+  * [Day 1] (/week_1/day_1)
+  
